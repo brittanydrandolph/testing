@@ -8,7 +8,7 @@
 |5|shainw | 460 | ![25 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2026.png)|
 |6|9b | 280 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2025.png)|
 |7|zanecop | 270 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2025.png)|
-|8|igalshapira | 230 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2025.png)![Bug Basher Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame20%18.png)|
+|8|igalshapira | 230 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2025.png)![Bug Basher Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2018.png)|
 |9|chinguyen1 | 160 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2024.png)|
 |10|tkubica12| 160 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2024.png)|
 |11|thmcelro | 140 | ![5 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2024.png)|
