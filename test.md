@@ -1,7 +1,7 @@
 # Top Threat Hunters 
 |Rank|User|Score|Badges|
 |:---:|:---:|:---:|:---:|
-|1|chicduong | 1690 | ![75 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2028.png)![Soaring in the Clouds Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2022.png)|
+|1|[chicduong](www.github.com/chicduong) | 1690 | ![75 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2028.png)![Soaring in the Clouds Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2022.png)|
 |2|dicolanl | 870 | ![25 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2026.png)|
 |3|YaronFruchtmann |800  | ![50 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2027.png)|
 |4|ashwin-patil | 640 | ![25 Contributions Badge](https://sentineltelemetry.blob.core.windows.net/badgeimages/Frame%2026.png)|
